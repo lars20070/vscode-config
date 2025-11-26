@@ -1,0 +1,1 @@
+Configuration files for VS Code editor. Copy to any project or mount as a volume in your development container.
